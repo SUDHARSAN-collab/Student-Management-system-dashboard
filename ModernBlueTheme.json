@@ -1,0 +1,16 @@
+{
+  "name": "Soft Pastel Lite Theme",
+  "dataColors": [
+    "#A5C9FF", 
+    "#C7E9FF",
+    "#FFD6E8", 
+    "#FFECC2",
+    "#D7F9D9", 
+    "#E5D9FF",
+    "#B8E8E0",
+    "#F6D6FF"
+  ],
+  "background": "#FAFBFF",
+  "foreground": "#374151",
+  "tableAccent": "#A5C9FF"
+}
